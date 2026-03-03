@@ -7,7 +7,7 @@
   Welcome to my profile! <br/>
   I'm Yousef Dawood, Frontend developer from 
   <img src="https://cdn-icons-png.flaticon.com/512/11848/11848666.png" width="13"/> 
-  <b>Egypt, Mansoura</b>
+  <b>Egypt</b>
 </p>
 
 <h3>Connect With Me</h3>
