@@ -1,6 +1,6 @@
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-  Ay Wassup G, How you doing
+  Ay Wassup G, How ya doing
 </h1>
 
 <p>
