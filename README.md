@@ -74,7 +74,7 @@
 
 <h3>😤 The Code I Live By</h3>
 <p align="center">
-  <b>"You can do whatever you want as long as you're breathing 😉"</b>
+  <b>"You can do whatever the F@$K you want as long as you're breathing"</b>
 </p>
 
 <h3>💪 Advice</h3>
