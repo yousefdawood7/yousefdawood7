@@ -69,15 +69,4 @@
 
 <!-- ================= SYSTEM ================= -->
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-
-</p>
-
-<h3>😤 The Code I Live By</h3>
-<p align="center">
-  <b>"You can do whatever the F@$K you want as long as you're breathing"</b>
-</p>
-
-<h3>💪 Advice</h3>
-<p align="center">
-  <b>"ESCAPE THE F@#$ING MATRIX"</b>
 </p>
