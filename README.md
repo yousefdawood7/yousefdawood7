@@ -52,8 +52,8 @@
 <!-- ================= TESTING ================= -->
 <img alt="Vitest" src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
 <img alt="React Testing Library" src="https://img.shields.io/badge/-React_Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" />
-<img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
-<img alt="Playwright" src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+<!-- <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" /> -->
+<!-- <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" /> -->
 
 <!-- ================= DEVOPS ================= -->
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
