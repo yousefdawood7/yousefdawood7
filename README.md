@@ -4,7 +4,7 @@
 </h1>
 
 <p>
-  I'm Yousef Dawood, Fullstack developer from 
+  I'm Yousef Dawood, Full-stack developer from 
   <img src="https://cdn-icons-png.flaticon.com/512/11848/11848666.png" width="13"/> 
   <b>Egypt</b>
 </p>
