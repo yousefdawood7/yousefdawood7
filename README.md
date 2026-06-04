@@ -43,6 +43,7 @@
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
 <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+<img alt="TypeORM" src="https://img.shields.io/badge/-TypeORM-FE0902?style=flat-square&logo=typeorm&logoColor=white" />
 <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
 <img alt="Drizzle ORM" src="https://img.shields.io/badge/-Drizzle-000000?style=flat-square&logo=drizzle&logoColor=white" />
 <img alt="Better Auth" src="https://img.shields.io/badge/-Better_Auth-000000?style=flat-square&logoColor=white" />
