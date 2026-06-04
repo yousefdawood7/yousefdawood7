@@ -70,6 +70,6 @@
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
-<p align="center">
-  <img src="github-metrics.svg" alt="Metrics">
+<p>
+  <img src="github-metrics.svg" alt="Metrics" width="70%">
 </p>
